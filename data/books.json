@@ -1,0 +1,17 @@
+[
+  {
+    "isbn": "12345678",
+    "title": "Test1",
+    "authors": ["no one", "someone"]
+  },
+  {
+    "isbn": "qwertyuiop",
+    "title": "Test1 ++",
+    "authors": ["no one", "kedar"]
+  },
+  {
+    "isbn": "12345asdfg",
+    "title": "Test2",
+    "authors": ["hiten", "kedar"]
+  }
+]
